@@ -75,7 +75,7 @@
       "sizes": "150x150",
       "type": "image/png"
     }
-  ]
+  ],
   "start_url": ".",
   "display": "standalone",
   "background_color": "#000000"
